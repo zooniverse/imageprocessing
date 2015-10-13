@@ -1,0 +1,13 @@
+2015/10/12 14:26:59 [alert] 20572#0: lua_code_cache is off; this will hurt performance in /usr/local/openresty/nginx/sbin/nginx.conf:11
+2015/10/12 15:02:49 [emerg] 20712#0: unknown "digest" variable
+2015/10/12 15:04:09 [emerg] 20727#0: unknown "size" variable
+2015/10/12 15:18:02 [emerg] 20816#0: "location" directive is not allowed here in /usr/local/openresty/nginx/sbin/nginx.conf:24
+2015/10/12 17:06:29 [emerg] 23803#0: open() "/usr/local/openresty/nginx/sbin/nginx.confçls" failed (2: No such file or directory)
+2015/10/12 17:44:13 [emerg] 25648#0: unknown "digest" variable
+2015/10/13 13:09:44 [emerg] 27041#0: unknown "path_" variable
+2015/10/13 13:09:46 [emerg] 27043#0: unknown "path_" variable
+2015/10/13 14:54:37 [emerg] 28793#0: "location" directive is not allowed here in /usr/local/openresty/nginx/sbin/nginx.conf:9
+2015/10/13 14:58:33 [emerg] 28879#0: the duplicate "uri" variable in /usr/local/openresty/nginx/sbin/nginx.conf:28
+2015/10/13 14:58:37 [emerg] 28881#0: the duplicate "uri" variable in /usr/local/openresty/nginx/sbin/nginx.conf:28
+2015/10/13 14:58:49 [emerg] 28895#0: the duplicate "uri" variable in /usr/local/openresty/nginx/sbin/nginx.conf:26
+2015/10/13 16:09:35 [emerg] 29800#0: invalid number of arguments in "proxy_pass" directive in /usr/local/openresty/nginx/sbin/nginx.conf:28
